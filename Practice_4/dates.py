@@ -1,4 +1,4 @@
-rom datetime import date, timedelta, datetime
+from datetime import date, timedelta, datetime
 
 # 1 
 today = date.today()
