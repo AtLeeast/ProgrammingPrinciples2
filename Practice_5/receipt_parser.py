@@ -1,5 +1,6 @@
 import re 
-with open("raw.txt", "r", encoding="utf-8") as f:
+
+with open("Practice_5/raw.txt", "r", encoding="utf-8") as f:
     raw = f.read()
 
 
@@ -45,5 +46,5 @@ data["date"] = date
 data["payment"] = payment 
 s = json.dumps(data, separators= (":" , ","))
 
-with open("data.json", 'w', encoding="utf-8") as f:
+with open("Practice_5/data.json", 'w', encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False)
