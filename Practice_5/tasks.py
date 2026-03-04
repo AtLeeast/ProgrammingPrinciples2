@@ -1,6 +1,6 @@
 import re
 
-with open("exmpl.txt", "r", encoding="utf-8") as f:
+with open("Practice_5/exmpl.txt", "r", encoding="utf-8") as f:
     exmp = f.read()
 
 # Task 1
