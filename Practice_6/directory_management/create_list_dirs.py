@@ -7,4 +7,3 @@ print(os.listdir("myproject"))
  
 for f in os.listdir("."):
     print(f)
- 
