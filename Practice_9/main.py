@@ -13,8 +13,8 @@ clock = pygame.time.Clock()
 clock_img, left_hnd, right_hnd = get_images()
 
 clock_img = pygame.transform.smoothscale(clock_img, (500, 500))
-left_hnd = pygame.transform.smoothscale(left_hnd, (60, 120))
-right_hnd = pygame.transform.smoothscale(right_hnd, (60, 120))
+left_hnd = pygame.transform.smoothscale(left_hnd, (60, 240))
+right_hnd = pygame.transform.smoothscale(right_hnd, (60, 240))
 
 #center
 rect = clock_img.get_rect(center=(WIDTH // 2, HEIGHT // 2))
