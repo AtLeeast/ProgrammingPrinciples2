@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Arsen",
+    "score": 142,
+    "distance": 305,
+    "coins": 16
+  },
+  {
+    "name": "Alex",
+    "score": 129,
+    "distance": 213,
+    "coins": 14
+  },
+  {
+    "name": "Perez",
+    "score": 126,
+    "distance": 200,
+    "coins": 14
+  },
+  {
+    "name": "Darkhan",
+    "score": 101,
+    "distance": 331,
+    "coins": 11
+  },
+  {
+    "name": "Lalalala",
+    "score": 61,
+    "distance": 81,
+    "coins": 6
+  },
+  {
+    "name": "Aleke",
+    "score": 43,
+    "distance": 152,
+    "coins": 6
+  },
+  {
+    "name": "Batyr",
+    "score": 15,
+    "distance": 33,
+    "coins": 2
+  }
+]
