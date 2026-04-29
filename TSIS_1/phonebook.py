@@ -427,7 +427,7 @@ def export_to_json():
 
     result = list(data.values())
 
-    with open("contacts.json", "w", encoding="utf-8") as f:
+    with open("TSIS_1/contacts.json", "w", encoding="utf-8") as f:
         json.dump(result, f, indent=4)
 
     print("Exported to contacts.json")
@@ -437,7 +437,7 @@ def export_to_json():
 def import_from_json():
     import json
 
-    with open("contacts.json", "r", encoding="utf-8") as f:
+    with open("TSIS_1/contacts.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
     with conn.cursor() as cur:

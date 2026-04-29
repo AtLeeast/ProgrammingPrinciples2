@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Arsen",
+        "email": "ars_li@kbtu.kz",
+        "birthday": "2007-04-08",
+        "group": "Me",
+        "phones": [
+            {
+                "number": "87751851809",
+                "type": "mobile"
+            },
+            {
+                "number": "87078383552",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Batyr",
+        "email": "batyrlan@gmail.com",
+        "birthday": "2007-03-28",
+        "group": "Friend",
+        "phones": [
+            {
+                "number": "+777777777",
+                "type": "mobile"
+            },
+            {
+                "number": "3232",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Dias",
+        "email": "dixonbaby@gmail.com",
+        "birthday": "2007-07-13",
+        "group": "Friend",
+        "phones": [
+            {
+                "number": "8707345345",
+                "type": "mobile"
+            },
+            {
+                "number": "6767",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Darkhan",
+        "email": "Darkhan@gmail.com",
+        "birthday": "2008-05-28",
+        "group": "Friend",
+        "phones": [
+            {
+                "number": "+77067474747",
+                "type": "mobile"
+            },
+            {
+                "number": "1234",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Eduard",
+        "email": "eduardkz@gmail.com",
+        "birthday": "2007-04-09",
+        "group": "Work",
+        "phones": [
+            {
+                "number": "87504357534",
+                "type": "mobile"
+            },
+            {
+                "number": "3758",
+                "type": "home"
+            }
+        ]
+    }
+]
